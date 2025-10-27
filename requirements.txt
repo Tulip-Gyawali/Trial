@@ -1,0 +1,24 @@
+
+---
+
+### `requirements.txt`
+numpy
+pandas
+scikit-learn
+xgboost
+optuna
+joblib
+fastapi
+uvicorn[standard]
+python-multipart
+obspy
+tqdm
+matplotlib
+flask
+pydantic
+pytest
+requests
+torch
+torchvision
+torchaudio
+seaborn
