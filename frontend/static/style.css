@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+h1 { color: #2b6cb0; }
+form div { margin-bottom: 8px; }
+label { display: inline-block; width: 160px; }
+input[type="number"] { width: 180px; }
+button { padding: 6px 12px; }
+#result { white-space: pre-wrap; background:#f7fafc; padding:10px; border-radius:6px; margin-top:10px; }
